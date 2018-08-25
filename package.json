@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@phq.github.com:phq/conf-man.git"
+    "url": "git@github.com:phq/conf-man.git"
   },
   "keywords": [
     "config",
