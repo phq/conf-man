@@ -4,7 +4,8 @@
   "description": "General nodejs config manager",
   "main": "dist/index.js",
   "scripts": {
-    "test": "not yet implemented"
+    "test": "not yet implemented",
+    "tsc": "tsc"
   },
   "repository": {
     "type": "git",
