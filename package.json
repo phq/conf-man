@@ -1,0 +1,19 @@
+{
+  "name": "conf-man",
+  "version": "1.0.0",
+  "description": "General nodejs config manager",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "not yet implemented"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@phq.github.com:phq/conf-man.git"
+  },
+  "keywords": [
+    "config",
+    "nodejs"
+  ],
+  "author": "phq",
+  "license": "MIT"
+}
