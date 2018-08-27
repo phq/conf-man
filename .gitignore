@@ -29,3 +29,6 @@ coverage
 #Cypress
 screenshots/
 videos/
+
+#Misc
+conf-man-1.0.0.tgz
