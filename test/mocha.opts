@@ -1,0 +1,6 @@
+--require babel-register
+--require babel-polyfill
+--check-leaks
+--ui bdd
+--timeout 20000
+--recursive

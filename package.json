@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "types": "dist/index",
   "scripts": {
-    "test": "not yet implemented",
+    "test": "mocha --opts test/mocha.opts test/",
     "tsc": "tsc",
     "start": "node dist/index.js"
   },
@@ -20,6 +20,10 @@
   "author": "phq",
   "license": "MIT",
   "devDependencies": {
-    "@types/node": "^10.9.2"
+    "@types/node": "^10.9.2",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
+    "chai": "^4.1.2"
   }
 }
