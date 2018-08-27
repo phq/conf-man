@@ -3,9 +3,11 @@
   "version": "1.0.0",
   "description": "General nodejs config manager",
   "main": "dist/index.js",
+  "types": "dist/index",
   "scripts": {
     "test": "not yet implemented",
-    "tsc": "tsc"
+    "tsc": "tsc",
+    "start": "node dist/index.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +18,8 @@
     "nodejs"
   ],
   "author": "phq",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^10.9.2"
+  }
 }
