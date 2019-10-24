@@ -21,6 +21,7 @@
   "author": "phq",
   "license": "MIT",
   "devDependencies": {
+    "@babel/preset-env": "^7.6.3",
     "@types/node": "^10.9.2",
     "babel-polyfill": "^6.26.0",
     "babel-preset-env": "^1.7.0",
